@@ -1,5 +1,5 @@
 {
-  "name": "cordova-icon",
+  "name": "@nattlivet/cordova-icon",
   "version": "1.0.0",
   "description": "Automatic icon resizing for Cordova",
   "main": "index.js",
@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/AlexDisler/cordova-icon.git"
+    "url": "git://github.com/Nattlivet/cordova-icon.git"
   },
   "keywords": [
     "cordova",
     "icon",
     "resize"
   ],
-  "author": "Alex Disler",
+  "author": "Nattlivet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlexDisler/cordova-icon/issues"
+    "url": "https://github.com/Nattlivet/cordova-icon/issues"
   },
-  "homepage": "https://github.com/AlexDisler/cordova-icon",
+  "homepage": "https://github.com/Nattlivet/cordova-icon",
   "dependencies": {
     "colors": "^0.6.2",
     "fs-extra": "^0.30.0",
